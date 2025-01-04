@@ -1,3 +1,5 @@
+REUPLOADED AFTER ALL ENIME RELATED CODE WAS TAKEN DOWN DUE TO PRESSURE FROM OUTSIDE ORGANIZATIONS. Code will not be hosted and your actions with this code will not be affiliated with us, but the code is still available for all to learn from. Thank you everyone for all the support in the past in helping this project accumulate over 2000 stars!
+
 <p align="center">
   <img src="https://github.com/Enime-Project/enime/blob/master/images/icon/icon-medium.png?raw=true" />  
 </p>
@@ -53,7 +55,7 @@ _Note: The current screenshots are from the (very) initial version of the projec
 
 ## Contributors
 
-[![](https://opencollective.com/enime/contributors.svg?width=890&button=false)](https://github.com/Enime-Project/enime/graphs/contributors)
+[![](https://opencollective.com/enime/contributors.svg?width=890&button=false)](https://github.com/aqilc/enime/graphs/contributors)
 
 ## Tech Used
 
